@@ -40,9 +40,11 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    
     # third-party
     'django_htmx',
     'storages',
+    
     # internal
     'articles',
     'inventory',
